@@ -5,6 +5,9 @@ Does one thing (but might not do that particuarly well). A connect middleware th
 This module has lots of room for being more configurable so if you want to do that go for it, PR's welcome.
 
 ## Usage
+
+`npm install [--save] connect-request-id`
+
 ```javascript
     var requestId = require('connect-request-id');
     var connect = require('connect');

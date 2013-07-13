@@ -6,7 +6,8 @@
   "scripts": {
     "test": "./node_modules/.bin/mocha test.js"
   },
-  "repository": "",
+  "repository": "git://github.com/sandfox/connect-requestid.git",
+  "homepage": "https://github.com/sandfox/connect-requestid",
   "keywords": [
     "connect",
     "express",
