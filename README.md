@@ -1,6 +1,6 @@
 # Connect Request ID
 
-Does one thing (but might not do that particuarly well). A connect middleware that creates unique ID's for each requests using [`node-uuid`](https://github.com/broofa/node-uuid) or a supplied HTTP header. Heavily (if not completely) based upon [`restify`'s'](https://github.com/mcavage/node-restify)
+Does one thing (but might not do that particuarly well). A connect middleware that creates unique ID's for each requests using [`node-uuid`](https://github.com/broofa/node-uuid) or a supplied HTTP header. Heavily (if not completely) based upon [`restify`](https://github.com/mcavage/node-restify)'s implementation
 
 This module has lots of room for being more configurable so if you want to do that go for it, PR's welcome.
 
